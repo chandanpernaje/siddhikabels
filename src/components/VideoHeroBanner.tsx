@@ -32,7 +32,7 @@ const VIDEO_SLIDES: VideoSlide[] = [
     quoteBody: '“Reliability in every core. Powering continuous-motion automation, robotics, and extreme industrial environments with zero failure tolerance.”',
     sublines: 'ÖLFLEX® Flexible Power & Control · UNITRONIC® Data · ETHERLINE® Cat6/7 · SKINTOP® Glands',
     videoSrc: '/videos/video_lapp.mp4',
-    poster: '/src/assets/images/product_lapp_cables_1792987894896.jpg',
+    poster: '/images/product_lapp_cables_1792987894896.jpg',
     logo: '/images/lapp.png',
     origin: 'Stuttgart, Germany'
   },
@@ -45,7 +45,7 @@ const VIDEO_SLIDES: VideoSlide[] = [
     quoteBody: '“Ensuring machine safety, intelligent motor protection, and energy control for India’s high-precision manufacturing lines.”',
     sublines: 'PKZM0 & PKE Motor-Protective Breakers · DILM Power Contactors · NZM MCCB · RMQ-Titan Pilot Devices',
     videoSrc: '/videos/video_eaton.mp4',
-    poster: '/src/assets/images/product_eaton_switchgear_1792987895288.jpg',
+    poster: '/images/product_eaton_switchgear_1792987895288.jpg',
     logo: '/images/eaton.png',
     origin: 'Cleveland, USA / Bonn, Germany'
   },
@@ -58,7 +58,7 @@ const VIDEO_SLIDES: VideoSlide[] = [
     quoteBody: '“Built for the harshest industrial conditions where mechanical abuse, water, chemicals, and dust cannot compromise power delivery.”',
     sublines: 'PowerTOP® Xtra 16A–125A · AMAXX® Receptacle Combinations · EverGUM® Solid Rubber Enclosures',
     videoSrc: '/videos/video_mennekes.mp4',
-    poster: '/src/assets/images/product_mennekes_plugs_1792987895718.jpg',
+    poster: '/images/product_mennekes_plugs_1792987895718.jpg',
     logo: '/images/mennekes.png',
     origin: 'Kirchhundem, Germany'
   },
@@ -71,7 +71,7 @@ const VIDEO_SLIDES: VideoSlide[] = [
     quoteBody: '“Clear identification saves lives, accelerates plant commissioning, and ensures strict compliance with IEC 60204-1 cabinet standards.”',
     sublines: 'PA/PC Identification Sleeves · Flame-Retardant Heat Shrink · 316 Acid-Proof Stainless Steel Tags · ProMark Printers',
     videoSrc: '/videos/video_partex.mp4',
-    poster: '/src/assets/images/product_partex_marking_1792987896251.jpg',
+    poster: '/images/product_partex_marking_1792987896251.jpg',
     logo: '/images/partex.svg',
     origin: 'Gullspang, Sweden'
   }

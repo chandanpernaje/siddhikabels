@@ -94,7 +94,7 @@ export const Hero: React.FC<HeroProps> = ({ onRequestQuote, onSelectBrand }) => 
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden border border-slate-200 shadow-xl bg-slate-950 aspect-[4/3] lg:aspect-auto lg:h-[460px] group">
               <img
-                src="/src/assets/images/hero_industrial_facility_1792987893482.jpg"
+                src="/images/hero_industrial_facility_1792987893482.jpg"
                 alt="Siddhi Kabel Industrial Automation and Electrical Solutions"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

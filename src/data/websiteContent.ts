@@ -20,7 +20,7 @@ export const FOUR_PRODUCTS: ProductBrand[] = [
     tagline: 'World-Leading Industrial Cables, Connectors & Accessories',
     country: 'Stuttgart, Germany',
     logo: '/images/lapp.png',
-    image: '/src/assets/images/product_lapp_cables_1792987894896.jpg',
+    image: '/images/product_lapp_cables_1792987894896.jpg',
     description: 'Lapp Cables produces world-class cables, wires, and conductors engineered for demanding industrial automation, mechanical engineering, and plant manufacturing.',
     categories: [
       {
@@ -72,7 +72,7 @@ export const FOUR_PRODUCTS: ProductBrand[] = [
     tagline: 'Moeller Series Industrial Switchgears & Intelligent Motor Control',
     country: 'Cleveland, USA / Bonn, Germany',
     logo: '/images/eaton.png',
-    image: '/src/assets/images/product_eaton_switchgear_1792987895288.jpg',
+    image: '/images/product_eaton_switchgear_1792987895288.jpg',
     description: 'Eaton produces a broad range of high-reliability switchgears and motor-protective equipment, engineered to ensure uninterrupted uptime, safety, and energy control for Indian industry.',
     categories: [
       {
@@ -124,7 +124,7 @@ export const FOUR_PRODUCTS: ProductBrand[] = [
     tagline: 'World-Renowned Industrial CEE Plugs, Sockets & Receptacle Combinations',
     country: 'Kirchhundem, Germany',
     logo: '/images/mennekes.png',
-    image: '/src/assets/images/product_mennekes_plugs_1792987895718.jpg',
+    image: '/images/product_mennekes_plugs_1792987895718.jpg',
     description: 'MENNEKES is the global benchmark for industrial plugs, sockets, and heavy-duty power distribution systems, engineered for extreme mechanical resilience, dust, water, and chemical resistance.',
     categories: [
       {
@@ -176,7 +176,7 @@ export const FOUR_PRODUCTS: ProductBrand[] = [
     tagline: 'Global Leader in Industrial Wire, Cable & Panel Marking Systems',
     country: 'Gullspang, Sweden',
     logo: '/images/partex.svg',
-    image: '/src/assets/images/product_partex_marking_1792987896251.jpg',
+    image: '/images/product_partex_marking_1792987896251.jpg',
     description: 'Partex Marking Systems is the undisputed pioneer in wire and cable identification, cable marking sleeves, stainless steel tags, and thermal printing systems for industrial control cabinets.',
     categories: [
       {
