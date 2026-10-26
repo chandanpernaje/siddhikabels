@@ -1,0 +1,8 @@
+{
+  "name": "Siddhi Kabel",
+  "description": "Authorised Distributors, Dealers, Importers, Suppliers, Channel Partners and Integrators of world-class Industrial Electrical, Automation & Safety Products: LAPP, EATON, MENNEKES, PARTEX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
